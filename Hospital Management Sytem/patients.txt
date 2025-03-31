@@ -1,0 +1,11 @@
+Daivd, Smith, 15, 07123456789, C1 ABC ,"fever,headache"
+Sara,Smith, 20, 07012345678,B1 234,"Nausea"
+Mike,Jones, 37,07555551234,L2 2AB,"Weight gain"
+Daivd,Smith, 15, 07123456789,C1 ABC,"Vomiting"
+Mohan,Kc,23,347348746877,B1 5BE,"Diziness"
+Kashish,Shenoy,34,344223434423,Y3 UYT,"Shoulder Pain"
+Taniya,Kc,23,23123,NT R1,"Fever"
+ABC,Smith, 20, 07012345678,B1 234,"Nausea"
+
+
+
